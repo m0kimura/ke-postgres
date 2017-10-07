@@ -1,7 +1,7 @@
 {
   "name": "ke-postgres",
   "description": "Kmrweb.net universal utility for postgresql",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "author": {
     "name": "michihiro kimura",
     "email": "kimura@kmrweb.net"
@@ -13,7 +13,7 @@
   "license": "MIT",
   "main": "./ke-postgres.js",
   "dependencies": {
-    "ke-base": "file:///home/kimura/github/ke-base",
+    "ke-base": "^1.0.1",
     "pg": "^7.3.0"
   }
 }
